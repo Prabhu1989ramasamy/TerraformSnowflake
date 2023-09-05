@@ -1,2 +1,2 @@
 # Test file
-print("Hi")
+print("test")
